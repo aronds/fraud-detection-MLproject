@@ -10,7 +10,7 @@ Financial fraud is a significant challenge faced by financial institutions world
 
 ## Datasets
 
-The project uses two datasets: fraudTrain.csv and fraudTest.csv, which contain transaction data. These datasets are preprocessed to handle missing values, categorical variables, and date-time features for effective model training.
+The project uses two datasets: fraudTrain.csv and fraudTest.csv, which contain transaction data. These datasets are preprocessed to handle missing values, categorical variables, and date-time features for effective model training. https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 ## Features
 
